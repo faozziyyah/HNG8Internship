@@ -302,19 +302,19 @@ h1{
 }
 
 #pro1{
-    background-image: url("../image/screenshot.png");
+    background-image: url("../image/screenshot1.PNG");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #pro2{
-    background-image: url("../image/screenshot1.jpg");
+    background-image: url("../image/desktop-preview.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #pro3{
-    background-image: url("../image/todo\ \(2\).PNG");
+    background-image: url("../image/screenshot.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
