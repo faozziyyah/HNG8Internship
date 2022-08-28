@@ -314,13 +314,37 @@ h1{
 }
 
 #pro3{
-    background-image: url("../image/screenshot.png");
+    background-image: url("../image/screenshot5.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #pro4{
     background-image: url("../image/restaurant\ \(2\).PNG");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pro5{
+    background-image: url("../image/restaurant\screenshot2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pro6{
+    background-image: url("../image/restaurant\screenshot4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pro7{
+    background-image: url("../image/restaurant\Screenshot 2022-08-28 115734.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#pro8{
+    background-image: url("../image/restaurant\screenshot.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
