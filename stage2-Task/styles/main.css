@@ -296,7 +296,7 @@ h1{
     color: #fff;
 }
 
-#pro1:hover, #pro2:hover, #pro3:hover, #pro4:hover{
+#pro1:hover, #pro2:hover, #pro3:hover, #pro4:hover, #pro5:hover, #pro6:hover, #pro7:hover, #pro8:hover{
     background-image: linear-gradient(to right bottom, #070640, rgba(79, 97, 42, 0.5));
     color: #FFFFFF; 
 }
@@ -326,25 +326,25 @@ h1{
 }
 
 #pro5{
-    background-image: url("../image/restaurant\screenshot2.png");
+    background-image: url("../image/restaurant/screenshot2.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #pro6{
-    background-image: url("../image/restaurant\screenshot4.png");
+    background-image: url("../image/restaurant/screenshot4.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #pro7{
-    background-image: url("../image/restaurant\Screenshot 2022-08-28 115734.png");
+    background-image: url("../image/restaurant/Screenshot 2022-08-28 115734.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #pro8{
-    background-image: url("../image/restaurant\screenshot.png");
+    background-image: url("../image/restaurant/screenshot.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
